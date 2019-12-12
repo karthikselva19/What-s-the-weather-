@@ -1,3 +1,3 @@
 # weather-app
 
-A Weather App Build by React js. 
+Simple Weather predictor developed in React js. 
